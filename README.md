@@ -6,7 +6,7 @@ This program will help you pull data from your yahoo fantasy football league.
 
 - Python  3
 - Jupyter
-- Yahoo developer accoutn
+- Yahoo developer accout
 - pandas
 - [yahoo_oauth](https://pypi.org/project/yahoo_oauth/)
 - Numpy
